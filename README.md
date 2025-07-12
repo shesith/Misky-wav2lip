@@ -6,7 +6,7 @@ Este es un proyecto experimental donde se anima un personaje a partir de una ima
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/Misky-wav2lip.git
+   git clone https://github.com/shesith/Misky-wav2lip.git
 
 2. Crea un entorno virtual
   python -m venv env39
